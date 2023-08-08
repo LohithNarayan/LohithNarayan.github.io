@@ -1,2 +1,2 @@
-# LohithNarayan.github.io
+# LohithNarayan.github
 GitHub pages
